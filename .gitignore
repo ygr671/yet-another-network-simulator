@@ -88,3 +88,5 @@ flycheck_*.el
 
 # End of https://www.toptal.com/developers/gitignore/api/c++,emacs
 
+# Personal TODO file
+TODO.org
